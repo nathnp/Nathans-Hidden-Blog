@@ -11,4 +11,4 @@ With its death, I’ve powered off my home servers. Why add hours to the drives,
 
 This won’t last much longer though. Coming in the mail tomorrow is a brand new [UNiFi UDR](https://store.ui.com/us/en/products/udr). Should work better than the dead ASUS. 
 
-[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: Router Died)
+[Reply to this post via email](mailto:reply.hid.18g9f@nthp.me?subject=Re: Router Died)

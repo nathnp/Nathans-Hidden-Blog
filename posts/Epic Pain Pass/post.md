@@ -9,4 +9,4 @@ Out of all the passes, I needed the day pass, but which day pass. One offers jus
 
 What happened to skiing. I can just go to my local mountains and not deal with… They got by Vail, so I’d still have to go through all this… Well, at least I’ll be able to to give Vail the finger in person soon. 
 
-[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: Epic Pain in the Pass)
+[Reply to this post via email](mailto:reply.hid.18g9f@nthp.me?subject=Re: Epic Pain in the Pass)

@@ -20,4 +20,4 @@ This interesting thing is, the purchase was always denied by Humble Bundle. My c
 
 Just take my money guys
 
-[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: Just Take My Money)
+[Reply to this post via email](mailto:reply.hid.18g9f@nthp.me?subject=Re: Just Take My Money)

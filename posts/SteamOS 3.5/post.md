@@ -15,4 +15,4 @@ The faster wake from sleep though, that's really doing it for me. From what I've
 
 Overall, I'm pretty happy with this beta. With that said, if you want to install this on your deck. Keep in mind that is is a beta. Your mileage may very.
 
-[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: SteamOS 3.5 Beta)
+[Reply to this post via email](mailto:reply.hid.18g9f@nthp.me?subject=Re: SteamOS 3.5 Beta)

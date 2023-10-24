@@ -26,4 +26,4 @@ echo""
 This script will cd into a folder (in the same directory as the script), run git pull, cd back out, then repeat till it’s gone through all the folders in its directory. Simple. <br>
 I have a cronjob set up to run this everyday at 1AM. If I want to add a new site of mine to back up. I just have to clone it into that folder with the script. Easy. 
 
-[Reply to this post via email](mailto:reply.13a8f@nthp.me?subject=Re: Dirt Simple Site Backups)
+[Reply to this post via email](mailto:reply.hid.18g9f@nthp.me?subject=Re: Dirt Simple Site Backups)
