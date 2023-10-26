@@ -16,7 +16,7 @@ Simply subscribe to the RSS feed.
 
 ### How do I subscribe to the RSS feed?
 
-You’ll need an RSS reader. [Here’s a list of a few](https://bloggingwizard.com/free-rss-feed-readers/). 
+You’ll need an RSS reader. [Here’s a list of a few](https://bloggingwizard.com/free-rss-feed-readers/). I personally use [Reeder 5](https://www.reederapp.com) for iOS and Mac.
 
 ### Can I share posts?
 
