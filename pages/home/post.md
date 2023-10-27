@@ -11,6 +11,4 @@ This is my hidden blog. If you’d like to read my posts, subscribe via [RSS](ht
 
 What's a hidden blog? Find out more [here](/faq). 
 
-Note: This site does have analytics enabled using [plausible](https://plausible.io), these are purely for my own curiosity
-
 </center>
