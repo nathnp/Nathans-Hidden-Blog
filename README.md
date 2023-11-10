@@ -1,3 +1,3 @@
 # Nathan's Hidden Blog
 
-This is a back up of my hidden blog [rss.nthp.me](https://rss.nthp.me)
+This is an archive of my old hidden blog. That was hosted at [rss.nthp.me](https://rss.nthp.me)
